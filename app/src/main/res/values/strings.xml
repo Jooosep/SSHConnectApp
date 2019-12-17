@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IOTApp</string>
+    <string name="username_field_title">Username:</string>
+    <string name="password_field_title">Password:</string>
+    <string name="ip_field_title">IP/Host Name:</string>
+    <string name="port_field_title">Port:</string>
+    <string name="save_button">Save</string>
+    <string name="load_button">Load</string>
+    <string name="connect_button">Connect</string>
+</resources>
